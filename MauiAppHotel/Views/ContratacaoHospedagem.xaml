@@ -76,6 +76,7 @@
                                 Format="dd/MM/yyyy"
                 </HorizontalStackLayout>
             </VerticalStackLayout>
+                
 
         </Frame>
 
